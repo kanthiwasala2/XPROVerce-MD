@@ -208,5 +208,3 @@ The developer is **not responsible** for misuse or WhatsApp policy violations.
 ⭐ **Star this repo if you like it!**
 
 ```
-Just tell me 👑🔥
-```
